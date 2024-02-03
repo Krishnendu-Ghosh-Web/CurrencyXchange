@@ -1,4 +1,4 @@
 # CurrencyXchange
-This is a Currency Converter.
+Converting one Currency to another.
 <br>
 Author -Krishnendu Ghosh.
